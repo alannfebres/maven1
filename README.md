@@ -6,7 +6,7 @@ Este es un proyecto utilizado para enseñar/aprender algunas herramientas en el 
 Getting Started
 ---------------
 
-Aquí dejamos el resumén de lo utilizado hoy en el taller para generar el proyecto.
+Aquí dejamos el resumen de lo utilizado hoy en el taller para generar el proyecto.
 
 # Maven (http://maven.apache.org/)
 
